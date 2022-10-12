@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Excersise {
+public class Training {
 
     private static final int MAX_ALLOWED_ATTEMPTS = 3;
 // This is a test comment for GIT
