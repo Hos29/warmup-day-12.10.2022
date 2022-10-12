@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Excersise {
 
     private static final int MAX_ALLOWED_ATTEMPTS = 3;
-
+// This is a test comment for GIT
     public static void main(String[] args) {
         int attempts = 1;
 
